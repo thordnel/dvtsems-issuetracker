@@ -7,5 +7,4 @@ assignees: thordnel
 
 ---
 
-**Describe the bug or write the steps to reproduce**
-A clear and concise description of what the bug is.
+
