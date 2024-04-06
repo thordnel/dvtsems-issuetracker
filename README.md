@@ -6,4 +6,4 @@
 
 Windows11-themed icons from [icons8.com](https://icons8.com/)
 
-## This portal will not be supported. Use the in-app form for feature requests and bug reporting. Thanks!
+## This portal will no longer be supported. Use the in-app form for feature requests and bug reporting. Thanks!
